@@ -78,3 +78,16 @@ Recuerda que para ejecutar la aplicación es necesario tener instalado PHP y MyS
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+Cordial saludo,
+
+Le envío el reto con el desarrollo de mi prueba realizada en el repositorio https://github.com/IngMarcela/TiendaApp/tree/main.
+
+Teniendo en cuenta la complejidad del reto, no pude hacer inserción de mocks en las pruebas, ya que el reto no lo requería. Además, no se están trabajando con inyección de dependencias ni se están usando servicios externos para hacer uso del patrón repository, aunque quiero destacar que tengo experiencia manejando dichas herramientas.
+
+También quiero disculparme por haber hecho y subido los commits el mismo día. La razón es que presté un ordenador para subir la prueba, ya que en mi empresa actual tengo bloqueadas algunas funcionalidades comunes de un computador y actualmente no cuento con uno personal.
+
+Agradezco la oportunidad brindada para presentar la prueba y quedo a la espera de una pronta respuesta.
+
+Gracias por su atención.
