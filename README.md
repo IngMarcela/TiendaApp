@@ -16,7 +16,7 @@ La aplicacion gestiona.
 1.Sigue estos pasos para instalar y configurar el proyecto en tu máquina local:
 
 ```sh
-git clone https://github.com/tu-usuario/tu-proyecto.git
+git clone https://github.com/IngMarcela/TiendaApp
 ```
 
 2. Accede a la carpeta del proyecto:
